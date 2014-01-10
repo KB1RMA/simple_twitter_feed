@@ -1,0 +1,6 @@
+.widget_latest_twitter_widget{ text-align: left; padding: 15px 0px 0px; list-style:none; }
+.latest-twitter-tweet{ margin-bottom: 15px;padding:0 41px;}
+	.latest-twitter-tweet a {color:#983F7D;font-weight:bold;text-decoration:none; }
+#latest-twitter-widget-icon, #latest-twitter-widget-pic{ float: left; border: 0px; margin-right: 5px; }
+#latest-twitter-follow-link{ text-align: right; text-transform: uppercase; letter-spacing: 1px; font: 7pt/15pt arial; }
+.latest-twitter-tweet-time{ font: 9pt/12pt arial; color: #999999; margin-bottom: 10px; }
